@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikaustubh12&label=Profile%20views&color=0e75b6&style=flat" alt="manikaustubh12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaferdi77&label=Profile%20views&color=0e75b6&style=flat" alt="adityaferdi77" /> </p>
 
 - 🔭 I’m currently working on **SDP_4**
 
@@ -36,8 +36,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/manimonarchy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/manimonarchy" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikaustubh12&show_icons=true&locale=en&layout=compact" alt="manikaustubh12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaferdi77&show_icons=true&locale=en&layout=compact" alt="adityaferdi77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manikaustubh12&show_icons=true&locale=en" alt="manikaustubh12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaferdi77&show_icons=true&locale=en" alt="adityaferdi77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikaustubh12&" alt="manikaustubh12" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaferdi77&" alt="adityaferdi77" /></p> 
