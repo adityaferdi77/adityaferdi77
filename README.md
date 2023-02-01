@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaferdi77&label=Profile%20views&color=0e75b6&style=flat" alt="adityaferdi77" /> </p>
 
-- 🔭 I’m currently working on **SDP_4**
+- 🔭 I’m currently working on **Laravel 8**
 
 - 🌱 I’m currently learning **web development and about cyber security**
 
